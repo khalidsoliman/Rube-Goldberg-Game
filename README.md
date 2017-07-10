@@ -86,10 +86,15 @@ It's Project Number 7 In UDACITY VR ND Developer.
 ### SYSTEM REQUIREMENTS
 
 OS: Windows 10
+
 Processor: Intel® i7-6700
+
 Memory: 16 GB RAM
+
 Graphics: NVIDIA GeForce® GTX 1070 
+
 DirectX: Version 11
+
 Storage: 30 MB available space
 
 ## License
