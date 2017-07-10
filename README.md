@@ -1,6 +1,6 @@
 # Rube-Goldberg-Game
 
-It's Project Number 7 In UDACITY VR ND Developer.
+It's Project Number 6 In UDACITY VR ND Developer.
 # FileContent
 
 * Brief description
@@ -99,4 +99,4 @@ Storage: 30 MB available space
 
 ## License
 
-`Udacity_VR_ND_P7` is a public domain work, dedicated using **MIT License** . Feel free to do whatever you want with it.
+`Udacity_VR_ND_P6` is a public domain work, dedicated using **MIT License** . Feel free to do whatever you want with it.
